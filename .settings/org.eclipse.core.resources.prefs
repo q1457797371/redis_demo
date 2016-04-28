@@ -1,0 +1,5 @@
+eclipse.preferences.version=1
+encoding//src/main/java/com/redis/Dao/RedisDao.java=UTF-8
+encoding//src/main/java/com/redis/Dao/RedisDaoImpl.java=UTF-8
+encoding//src/main/java/com/redis/utils/DateUtil.java=UTF-8
+encoding//src/main/java/com/redis/utils/SerializeUtil.java=UTF-8
